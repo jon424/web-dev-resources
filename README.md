@@ -1,6 +1,6 @@
-#Jon's Web Dev Resources
+# Jon's Web Dev Resources
 
-#Table of Contents
+# Table of Contents
 
 1. [Example](#example)
 2. [Example2](#example2)
