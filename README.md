@@ -3,15 +3,38 @@
 # Table of Contents
 
 1. [Example](#example)
-2. [Example2](#example2)
-3. [Third Example](#third-example)
+2. [React](#react)
+3. [Selenium](#selenium)
 4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
 
 ## Example
 
-## Example2
+## React
 
-## Third Example
+visx: a collection of expressive, low-level visualization primitives for React
+https://airbnb.io/visx/drag-ii
+
+
+React dashboards
+https://flatlogic.com/templates/react-dashboard?ref=c_sw5ZRBoi
+
+## Selenium
+***
+Generate Extent Reports In Selenium WebDriver:
+https://www.softwaretestinghelp.com/extent-reports-selenium-webdriver/
+
+Create Responsive UI Reporting
+https://www.linkedin.com/pulse/extent-reports-delightful-responsive-ui-reporting-ajuram-salim/
+
+
+More about Selenium reporting
+https://www.guru99.com/testng-report.html
+
+Good walk-through of Selenium Automation
+https://www.smashingmagazine.com/2018/04/feature-testing-selenium-webdriver/
+
+
+
 
 ## [Fourth Example](http://www.fourthexample.com)
 
@@ -55,22 +78,4 @@ https://themeisle.com/blog/install-xampp-and-wordpress-locally/
 
 
 
-# Selenium / Testing
-learn about extent reports in selenium... have a good front end for the results:
-https://www.softwaretestinghelp.com/extent-reports-selenium-webdriver/
-&&
-https://www.linkedin.com/pulse/extent-reports-delightful-responsive-ui-reporting-ajuram-salim/
-
-
-
-https://www.smashingmagazine.com/2018/04/feature-testing-selenium-webdriver/
-
-reactcoolcomponents
-https://airbnb.io/visx/drag-ii
-
-
-https://www.guru99.com/testng-report.html
-
-make this with fakr js API material
-https://flatlogic.com/templates/react-dashboard?ref=c_sw5ZRBoi
 
