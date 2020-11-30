@@ -1,13 +1,25 @@
 # Web Dev Resources
+## What is this?
+This is a markdown file containing resources for various topics in web development. There are links to helpful articles/repos, code snippets, and images to help you become a better developer.
+
+## How To Use
+Simply browse the table of contents below to access available resources for a variety of topics in web development.
+
+## Contribute
+Do you know of any helpful articles that should be included here? Do you have a trusty code snippet that you use all the time when working with a certain language/framework? Make a pull request or open an issue and let me know! I would love to include examples from other developers. This is very much a work in progress.
+<br><br>
+Enjoy!
+<br><br>
 
 # Table of Contents
 
-1. [Example](#example)
+1. [CSS](#css)
 2. [React](#react)
 3. [Selenium](#selenium)
-4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
+4. [Wordpress](#wordpress)
+***
+<br><br>
 
-## Example
 
 ## React
 
