@@ -46,4 +46,10 @@
 8.	Open the main file and right click on the method and Run As Java Application:
 ![alt](spring_start_project_eclipse.png "eclipse - run as java project")
  
+# How To Kill A Process Running On A Specific Port (Windows)
+![alt](kill_process_on_port.PNG "How to kill a process running on a specific port (Windows)")
+
+
+# How To Run WordPress Locally With XAMPP
+https://themeisle.com/blog/install-xampp-and-wordpress-locally/
 
