@@ -30,3 +30,20 @@
 # Getting Started
 
 # Contribute To This Document
+
+
+# Starting a Spring Boot Project With Eclipse
+
+1. start at start.spring.io
+2.	fill this out:
+![alt](spring_init.png "spring initializr")
+ 
+3.	Unzip the file you made and put it in your dev folder (wherever you keep your projects)
+4.	Open Eclipse
+5.	File > Import > Existing Maven Project
+6.	Browse to the root folder of the project
+7.	Click “Finish”, which will download all dependencies in the pom.xml file
+8.	Open the main file and right click on the method and Run As Java Application:
+![alt](spring_start_project_eclipse.png "eclipse - run as java project")
+ 
+
