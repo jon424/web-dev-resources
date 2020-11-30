@@ -1,27 +1,26 @@
-# Web Dev Resources
-## What is this?
+# 🌎 Web Dev Resources 🖥️
+## 🙋 What is this?
 This is a markdown file containing resources for various topics in web development. There are links to helpful articles/repos, code snippets, and images to help you become a better developer.
 
-## How To Use
+## 🕮 How To Use
 Simply browse the table of contents below to access available resources for a variety of topics in web development.
 
-## Contribute
+## 🤓 Contribute
 Do you know of any helpful articles that should be included here? Do you have a trusty code snippet that you use all the time when working with a certain language/framework? Make a pull request or open an issue and let me know! I would love to include examples from other developers. This is very much a work in progress.
 <br><br>
 Enjoy!
 <br><br>
 
-# Table of Contents
+# 📋 Table of Contents
 
 1. [CSS](#css)
 2. [React](#react)
 3. [Selenium](#selenium)
 4. [Wordpress](#wordpress)
 ***
-<br><br>
 
-
-## React
+# ⚛️ React
+## React Topics & Resources
 
 visx: a collection of expressive, low-level visualization primitives for React
 https://airbnb.io/visx/drag-ii
@@ -30,8 +29,9 @@ https://airbnb.io/visx/drag-ii
 React dashboards
 https://flatlogic.com/templates/react-dashboard?ref=c_sw5ZRBoi
 
-## Selenium
-***
+# 🧪 Selenium
+## Selenium Topics & Resources
+
 Generate Extent Reports In Selenium WebDriver:
 https://www.softwaretestinghelp.com/extent-reports-selenium-webdriver/
 
@@ -48,7 +48,7 @@ https://www.smashingmagazine.com/2018/04/feature-testing-selenium-webdriver/
 
 
 
-## [Fourth Example](http://www.fourthexample.com)
+## [Fourth Example](http://www.fourthexample.com) Topics & Resources
 
 
 ![alt](https://random.dog/deb832f8-e3df-46f9-aa6c-b08fcf69db2d.jpg "dog image")
@@ -56,15 +56,9 @@ https://www.smashingmagazine.com/2018/04/feature-testing-selenium-webdriver/
 ## supports gifs
 ![alt](https://media1.giphy.com/media/9pE06ejyaQnh6/200.webp?cid=ecf05e47zmqc9wpodtnd7s5yh90ne3hjh50bdwm0xtlg60u9&rid=200.webp "rainbow puking gif")
 
-- guidelines for contributions
-
 - was this helpful? section/description
 
 ***need canonical index, with guides, tutorials, runbooks, and FAQs***
-
-# Getting Started
-
-# Contribute To This Document
 
 
 # Starting a Spring Boot Project With Eclipse
