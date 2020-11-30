@@ -53,3 +53,24 @@
 # How To Run WordPress Locally With XAMPP
 https://themeisle.com/blog/install-xampp-and-wordpress-locally/
 
+
+
+# Selenium / Testing
+learn about extent reports in selenium... have a good front end for the results:
+https://www.softwaretestinghelp.com/extent-reports-selenium-webdriver/
+&&
+https://www.linkedin.com/pulse/extent-reports-delightful-responsive-ui-reporting-ajuram-salim/
+
+
+
+https://www.smashingmagazine.com/2018/04/feature-testing-selenium-webdriver/
+
+reactcoolcomponents
+https://airbnb.io/visx/drag-ii
+
+
+https://www.guru99.com/testng-report.html
+
+make this with fakr js API material
+https://flatlogic.com/templates/react-dashboard?ref=c_sw5ZRBoi
+
