@@ -1,4 +1,4 @@
-# 🌎 Web Dev Resources 🖥️
+# 🖥️ Web Dev Resources 🌎🌏🌍
 ## 🙋 What is this?
 This is a markdown file containing resources for various topics in web development. There are links to helpful articles/repos, code snippets, and images to help you become a better developer.
 
