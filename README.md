@@ -78,10 +78,11 @@ https://www.smashingmagazine.com/2018/04/feature-testing-selenium-webdriver/
 # How To Kill A Process Running On A Specific Port (Windows)
 ![alt](kill_process_on_port.PNG "How to kill a process running on a specific port (Windows)")
 
-
-# How To Run WordPress Locally With XAMPP
+# WordPress
+## How To Run WordPress Locally With XAMPP
 https://themeisle.com/blog/install-xampp-and-wordpress-locally/
 
-
+## How to solve 403 Error in WordPress
+https://kinsta.com/blog/403-forbidden-error/
 
 
