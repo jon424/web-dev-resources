@@ -18,6 +18,15 @@ Enjoy!
 3. [Selenium](#selenium)
 4. [Wordpress](#wordpress)
 ***
+
+# CSS
+https://www.youtube.com/watch?v=qm0IfG1GyZU&feature=emb_logo
+
+
+# GitHub
+https://levelup.gitconnected.com/10-github-repos-that-can-help-you-grow-as-a-web-developer-56a640d9771a
+
+
 # jQuery
 https://stackoverflow.com/questions/65272021/i-cannot-figure-out-why-the-first-time-i-click-on-item-i-get-expected-behavior-b
 
