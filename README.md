@@ -18,6 +18,8 @@ Enjoy!
 3. [Selenium](#selenium)
 4. [Wordpress](#wordpress)
 ***
+# jQuery
+https://stackoverflow.com/questions/65272021/i-cannot-figure-out-why-the-first-time-i-click-on-item-i-get-expected-behavior-b
 
 # ⚛️ React
 ## React Topics & Resources
