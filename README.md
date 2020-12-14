@@ -22,6 +22,8 @@ Enjoy!
 # CSS
 https://www.youtube.com/watch?v=qm0IfG1GyZU&feature=emb_logo
 
+## <details>styling a \<details\> element like a \<select\> element:
+https://css-tricks.com/quick-reminder-that-details-summary-is-the-easiest-way-ever-to-make-an-accordion/
 
 # GitHub
 https://levelup.gitconnected.com/10-github-repos-that-can-help-you-grow-as-a-web-developer-56a640d9771a
