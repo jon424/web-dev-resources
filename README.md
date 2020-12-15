@@ -34,6 +34,8 @@ https://stackoverflow.com/questions/65272021/i-cannot-figure-out-why-the-first-t
 
 # ⚛️ React
 ## React Topics & Resources
+brillout: a react component library: https://github.com/brillout/awesome-react-components
+
 
 visx: a collection of expressive, low-level visualization primitives for React
 https://airbnb.io/visx/drag-ii
