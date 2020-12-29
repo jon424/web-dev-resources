@@ -47,6 +47,10 @@ https://airbnb.io/visx/drag-ii
 React dashboards
 https://flatlogic.com/templates/react-dashboard?ref=c_sw5ZRBoi
 
+Nice useState example for data fetching:
+https://dev.to/tkdodo/don-t-over-usestate-4k72
+
+
 # 🧪 Selenium
 ## Selenium Topics & Resources
 
@@ -78,7 +82,7 @@ https://www.smashingmagazine.com/2018/04/feature-testing-selenium-webdriver/
 
 ***need canonical index, with guides, tutorials, runbooks, and FAQs***
 
-***needs like an Artciles section that has subsections based on topic.  Here's a cool article, btw:*** https://increment.com/frontend/when-frontend-means-full-stack/
+***needs like an Articles section that has subsections based on topic.  Here's a cool article, btw:*** https://increment.com/frontend/when-frontend-means-full-stack/
 
 # Starting a Spring Boot Project With Eclipse
 
