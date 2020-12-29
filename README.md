@@ -28,6 +28,10 @@ https://css-tricks.com/quick-reminder-that-details-summary-is-the-easiest-way-ev
 # GitHub
 https://levelup.gitconnected.com/10-github-repos-that-can-help-you-grow-as-a-web-developer-56a640d9771a
 
+# HTTP
+using HTTP instead of WebSockets, for example: https://dev.to/nwtgck/the-power-of-pure-http-screen-share-real-time-messaging-ssh-and-vnc-5ghc
+
+
 # Jest
 https://dev.to/andyhaskell/making-custom-jest-assertion-matchers-in-javascript-and-typescript-15ij
 
