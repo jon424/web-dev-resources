@@ -28,9 +28,12 @@ https://css-tricks.com/quick-reminder-that-details-summary-is-the-easiest-way-ev
 # GitHub
 https://levelup.gitconnected.com/10-github-repos-that-can-help-you-grow-as-a-web-developer-56a640d9771a
 
+# Jest
+https://dev.to/andyhaskell/making-custom-jest-assertion-matchers-in-javascript-and-typescript-15ij
 
 # jQuery
 https://stackoverflow.com/questions/65272021/i-cannot-figure-out-why-the-first-time-i-click-on-item-i-get-expected-behavior-b
+
 
 # ⚛️ React
 ## React Topics & Resources
