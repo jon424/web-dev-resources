@@ -54,6 +54,8 @@ https://flatlogic.com/templates/react-dashboard?ref=c_sw5ZRBoi
 Nice useState example for data fetching:
 https://dev.to/tkdodo/don-t-over-usestate-4k72
 
+Recursion in React: https://dev.to/nas5w/creating-a-recursive-list-menu-any-number-of-levels-deep-in-react-4i2g
+
 
 # 🧪 Selenium
 ## Selenium Topics & Resources
