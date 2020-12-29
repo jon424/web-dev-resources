@@ -56,6 +56,8 @@ https://dev.to/tkdodo/don-t-over-usestate-4k72
 
 Recursion in React: https://dev.to/nas5w/creating-a-recursive-list-menu-any-number-of-levels-deep-in-react-4i2g
 
+Nice React + WordPress Headless CMS Intro: https://dev.to/technolaaji/using-react-as-a-wordpress-theme-4dao
+
 
 # 🧪 Selenium
 ## Selenium Topics & Resources
