@@ -31,6 +31,9 @@ https://levelup.gitconnected.com/10-github-repos-that-can-help-you-grow-as-a-web
 # HTTP
 using HTTP instead of WebSockets, for example: https://dev.to/nwtgck/the-power-of-pure-http-screen-share-real-time-messaging-ssh-and-vnc-5ghc
 
+# JavaScript
+color shifting: https://jsfiddle.net/akinuri/dd2p9mgL/
+
 
 # Jest
 https://dev.to/andyhaskell/making-custom-jest-assertion-matchers-in-javascript-and-typescript-15ij
