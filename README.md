@@ -18,6 +18,10 @@ Enjoy!
 3. [Selenium](#selenium)
 4. [Wordpress](#wordpress)
 ***
+# Adobe Experience Manager
+info on CRXDE Lite: https://helpx.adobe.com/experience-manager/6-3/sites/developing/using/developing-with-crxde-lite.html
+
+<i>default access to CRXDE Lite is:</i>http://localhost:4502/crx/de
 
 # CSS
 https://www.youtube.com/watch?v=qm0IfG1GyZU&feature=emb_logo
