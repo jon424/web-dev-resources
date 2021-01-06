@@ -28,6 +28,9 @@ https://css-tricks.com/quick-reminder-that-details-summary-is-the-easiest-way-ev
 # GitHub
 https://levelup.gitconnected.com/10-github-repos-that-can-help-you-grow-as-a-web-developer-56a640d9771a
 
+free API's:
+https://github.com/public-apis/public-apis
+
 # HTTP
 using HTTP instead of WebSockets, for example: https://dev.to/nwtgck/the-power-of-pure-http-screen-share-real-time-messaging-ssh-and-vnc-5ghc
 
@@ -56,6 +59,8 @@ https://flatlogic.com/templates/react-dashboard?ref=c_sw5ZRBoi
 
 Nice useState example for data fetching:
 https://dev.to/tkdodo/don-t-over-usestate-4k72
+
+Good hooks explanation: https://dev.to/olenadrugalya/understanding-hooks-what-and-why-2kb0
 
 Recursion in React: https://dev.to/nas5w/creating-a-recursive-list-menu-any-number-of-levels-deep-in-react-4i2g
 
