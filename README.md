@@ -23,6 +23,10 @@ info on CRXDE Lite: https://helpx.adobe.com/experience-manager/6-3/sites/develop
 
 <i>default access to CRXDE Lite is:</i>http://localhost:4502/crx/de
 
+### Apache Sling
+https://sling.apache.org/<br>
+>"In a nutshell, Sling maps HTTP request URLs to content resources based on the request's path, extension, and selectors. Using convention over configuration, requests are processed by scripts and servelets, dynamically selected based on the current resource. This fosters meaningful URLs and resource driven request processing, while the modular nature of Sling allows for specialized server instances that include only what is needed."
+
 # CSS
 https://www.youtube.com/watch?v=qm0IfG1GyZU&feature=emb_logo
 
