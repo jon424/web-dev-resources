@@ -67,6 +67,11 @@ https://airbnb.io/visx/drag-ii
 React dashboards
 https://flatlogic.com/templates/react-dashboard?ref=c_sw5ZRBoi
 
+React-Draggable
+<i>A simple component for making elements draggable</i>
+https://www.npmjs.com/package/react-draggable
+
+
 Nice useState example for data fetching:
 https://dev.to/tkdodo/don-t-over-usestate-4k72
 
