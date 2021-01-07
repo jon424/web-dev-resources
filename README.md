@@ -19,6 +19,8 @@ Enjoy!
 4. [Wordpress](#wordpress)
 ***
 # Adobe Experience Manager
+setting up a local dev environment in AEM: https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/development/set-up-a-local-aem-development-environment.html?lang=en#development
+
 info on CRXDE Lite: https://helpx.adobe.com/experience-manager/6-3/sites/developing/using/developing-with-crxde-lite.html
 
 <i>default access to CRXDE Lite is:</i>http://localhost:4502/crx/de
