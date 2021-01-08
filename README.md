@@ -139,4 +139,5 @@ https://themeisle.com/blog/install-xampp-and-wordpress-locally/
 ## How to solve 403 Error in WordPress
 https://kinsta.com/blog/403-forbidden-error/
 
-
+## How to fix extra white space on side of screen:
+![alt](wp-extra-white-space-solution.PNG "How to fix extra white space on side of screen")
