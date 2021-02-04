@@ -14,8 +14,8 @@ Enjoy!
 # 📋 Table of Contents
 
 1. [CSS](#css)
-2. [React](#react)
-3. [Selenium](#selenium)
+2. [React](#⚛️React)
+3. [Selenium](#🧪Selenium)
 4. [Wordpress](#wordpress)
 ***
 # Adobe Experience Manager
@@ -55,7 +55,7 @@ https://dev.to/andyhaskell/making-custom-jest-assertion-matchers-in-javascript-a
 https://stackoverflow.com/questions/65272021/i-cannot-figure-out-why-the-first-time-i-click-on-item-i-get-expected-behavior-b
 
 
-# ⚛️ React
+# ⚛️React
 ## React Topics & Resources
 brillout: a react component library: https://github.com/brillout/awesome-react-components
 
@@ -89,7 +89,7 @@ https://javascriptforwp.com/adding-react-to-a-wordpress-theme-tutorial/
 
 
 
-# 🧪 Selenium
+# 🧪Selenium
 ## Selenium Topics & Resources
 
 Generate Extent Reports In Selenium WebDriver:
