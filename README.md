@@ -79,6 +79,9 @@ Good hooks explanation: https://dev.to/olenadrugalya/understanding-hooks-what-an
 
 Recursion in React: https://dev.to/nas5w/creating-a-recursive-list-menu-any-number-of-levels-deep-in-react-4i2g
 
+React Reveal - Animated reveal effects in React:
+https://www.react-reveal.com/
+
 Nice React + WordPress Headless CMS Intro: https://dev.to/technolaaji/using-react-as-a-wordpress-theme-4dao
 
 More WordPress + React
