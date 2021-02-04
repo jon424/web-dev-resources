@@ -81,6 +81,10 @@ Recursion in React: https://dev.to/nas5w/creating-a-recursive-list-menu-any-numb
 
 Nice React + WordPress Headless CMS Intro: https://dev.to/technolaaji/using-react-as-a-wordpress-theme-4dao
 
+More WordPress + React
+https://javascriptforwp.com/adding-react-to-a-wordpress-theme-tutorial/
+
+
 
 # 🧪 Selenium
 ## Selenium Topics & Resources
