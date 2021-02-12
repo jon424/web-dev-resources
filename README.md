@@ -14,9 +14,10 @@ Enjoy!
 # 📋 Table of Contents
 
 1. [CSS](#css)
-2. [React](#⚛️-React)
-3. [Selenium](#🧪-Selenium)
-4. [Wordpress](#wordpress)
+2. [JavaScript](#☕-JavaScript)
+3. [React](#⚛️-React)
+4. [Selenium](#🧪-Selenium)
+5. [Wordpress](#wordpress)
 ***
 # Adobe Experience Manager
 setting up a local dev environment in AEM: https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/development/set-up-a-local-aem-development-environment.html?lang=en#development
@@ -44,7 +45,10 @@ https://github.com/public-apis/public-apis
 # HTTP
 using HTTP instead of WebSockets, for example: https://dev.to/nwtgck/the-power-of-pure-http-screen-share-real-time-messaging-ssh-and-vnc-5ghc
 
-# JavaScript
+# ☕ JavaScript
+Components with Vanilla JavaScript
+https://developer.okta.com/blog/2019/12/18/vanilla-javascript-components
+
 color shifting: https://jsfiddle.net/akinuri/dd2p9mgL/
 
 
