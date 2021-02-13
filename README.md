@@ -67,6 +67,8 @@ brillout: a react component library: https://github.com/brillout/awesome-react-c
 visx: a collection of expressive, low-level visualization primitives for React
 https://airbnb.io/visx/drag-ii
 
+React Chart Libraries:
+https://dev.to/keefdrive/the-top-5-reactjs-chart-libraries-video-review-7f8
 
 React dashboards
 https://flatlogic.com/templates/react-dashboard?ref=c_sw5ZRBoi
