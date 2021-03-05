@@ -42,6 +42,10 @@ https://levelup.gitconnected.com/10-github-repos-that-can-help-you-grow-as-a-web
 free API's:
 https://github.com/public-apis/public-apis
 
+Grid Cheatsheet for 2021
+https://dev.to/joyshaheb/css-grid-cheat-sheet-illustrated-in-2021-1a3#grid-architecture
+
+
 # HTTP
 using HTTP instead of WebSockets, for example: https://dev.to/nwtgck/the-power-of-pure-http-screen-share-real-time-messaging-ssh-and-vnc-5ghc
 
