@@ -81,6 +81,8 @@ React-Draggable
 <i>A simple component for making elements draggable</i>
 https://www.npmjs.com/package/react-draggable
 
+React Dynamically Expandable Rows example:
+https://stackblitz.com/edit/react-hooks-dynamically-add-table-row-expand-collapse?file=index.js
 
 Nice useState example for data fetching:
 https://dev.to/tkdodo/don-t-over-usestate-4k72
