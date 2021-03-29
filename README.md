@@ -14,7 +14,7 @@ Enjoy!
 # 📋 Table of Contents
 
 1. [CSS](#css)
-2. [JavaScript](#☕-JavaScript)
+2. [JavaScript](#%E2%98%95-JavaScript)
 3. [React](#⚛️-React)
 4. [Selenium](#🧪-Selenium)
 5. [Wordpress](#wordpress)
