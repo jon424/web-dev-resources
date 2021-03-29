@@ -94,6 +94,8 @@ Recursion in React: https://dev.to/nas5w/creating-a-recursive-list-menu-any-numb
 React Reveal - Animated reveal effects in React:
 https://www.react-reveal.com/
 
+Ultimate React Resources - https://dev.to/hulyakarakaya/ultimate-react-resources-obl
+
 Nice React + WordPress Headless CMS Intro: https://dev.to/technolaaji/using-react-as-a-wordpress-theme-4dao
 
 More WordPress + React
