@@ -53,6 +53,8 @@ https://dev.to/joyshaheb/css-grid-cheat-sheet-illustrated-in-2021-1a3#grid-archi
 # HTTP
 using HTTP instead of WebSockets, for example: https://dev.to/nwtgck/the-power-of-pure-http-screen-share-real-time-messaging-ssh-and-vnc-5ghc
 
+CORS https://dev.to/joehonton/cross-domain-json-requests-1g5
+
 # ☕ JavaScript
 Components with Vanilla JavaScript
 https://developer.okta.com/blog/2019/12/18/vanilla-javascript-components
