@@ -15,8 +15,8 @@ Enjoy!
 
 1. [CSS](#css)
 2. [Documentation](#Documentation)
-3. [JavaScript](#%E2%98%95-JavaScript)
-4. [React](#-React)
+3. [JavaScript](JavaScript-)
+4. [React](#React-)
 5. [Selenium](#Selenium-)
 6. [Wordpress](#wordpress)
 ***
@@ -55,7 +55,7 @@ using HTTP instead of WebSockets, for example: https://dev.to/nwtgck/the-power-o
 
 CORS https://dev.to/joehonton/cross-domain-json-requests-1g5
 
-# ☕ JavaScript
+# JavaScript ☕ 
 Components with Vanilla JavaScript
 https://developer.okta.com/blog/2019/12/18/vanilla-javascript-components
 
@@ -69,7 +69,7 @@ https://dev.to/andyhaskell/making-custom-jest-assertion-matchers-in-javascript-a
 https://stackoverflow.com/questions/65272021/i-cannot-figure-out-why-the-first-time-i-click-on-item-i-get-expected-behavior-b
 
 
-# ⚛️ React
+# React ⚛️ 
 ## React Topics & Resources
 brillout: a react component library: https://github.com/brillout/awesome-react-components
 
