@@ -68,8 +68,8 @@ https://dev.to/andyhaskell/making-custom-jest-assertion-matchers-in-javascript-a
 # jQuery
 https://stackoverflow.com/questions/65272021/i-cannot-figure-out-why-the-first-time-i-click-on-item-i-get-expected-behavior-b
 
-
-# React ⚛️ 
+⚛️ 
+# React ⚛
 ## React Topics & Resources
 brillout: a react component library: https://github.com/brillout/awesome-react-components
 
