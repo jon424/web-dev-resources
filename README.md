@@ -16,7 +16,7 @@ Enjoy!
 1. [CSS](#css)
 2. [Documentation](#Documentation)
 3. [JavaScript](#%E2%98%95-JavaScript)
-4. [React](#⚛️-React)
+4. [React](#-React)
 5. [Selenium](#Selenium-)
 6. [Wordpress](#wordpress)
 ***
